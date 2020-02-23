@@ -25,5 +25,5 @@
         └── yourchaincode.go
     ```
 
-3. Submit a pull request to the remote repo you forked from. 
+3. Submit a pull request to the remote repo (<https://github.com/linuxone-community-cloud/MCCS_Hackathon.git>) you forked from.
 
